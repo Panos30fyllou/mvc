@@ -1,0 +1,12 @@
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Interfaces\bin\Debug\DiagnosticCenterManagement.Interfaces.dll.config
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Interfaces\bin\Debug\DiagnosticCenterManagement.Interfaces.dll
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Interfaces\bin\Debug\DiagnosticCenterManagement.Interfaces.pdb
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Interfaces\obj\Debug\DiagnosticCenterManagement.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Interfaces\obj\Debug\DiagnosticCenterManagement.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Interfaces\obj\Debug\DiagnosticCenterManagement.Interfaces.csproj.CopyComplete
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Interfaces\obj\Debug\DiagnosticCenterManagement.Interfaces.dll
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Interfaces\obj\Debug\DiagnosticCenterManagement.Interfaces.pdb

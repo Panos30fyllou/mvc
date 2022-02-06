@@ -1,0 +1,16 @@
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Data\bin\Debug\DiagnosticCenterManagement.Data.dll.config
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Data\bin\Debug\DiagnosticCenterManagement.Data.dll
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Data\bin\Debug\DiagnosticCenterManagement.Data.pdb
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Data\bin\Debug\EntityFramework.dll
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Data\bin\Debug\EntityFramework.xml
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Data\obj\Debug\DiagnosticCenterManagement.Data.csproj.AssemblyReference.cache
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Data\obj\Debug\DiagnosticCenterManagement.Data.Migrations.InitialCreate.resources
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Data\obj\Debug\DiagnosticCenterManagement.Data.Migrations.newmig.resources
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Data\obj\Debug\DiagnosticCenterManagement.Data.Migrations.newmig2.resources
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Data\obj\Debug\DiagnosticCenterManagement.Data.csproj.GenerateResource.cache
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Data\obj\Debug\DiagnosticCenterManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Data\obj\Debug\DiagnosticCenterManagement.Data.csproj.CopyComplete
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Data\obj\Debug\DiagnosticCenterManagement.Data.dll
+C:\Users\Kingpin\Documents\Diagnostic Center Management\DiagnosticCenterManagement\DiagnosticCenterManagement.Data\obj\Debug\DiagnosticCenterManagement.Data.pdb

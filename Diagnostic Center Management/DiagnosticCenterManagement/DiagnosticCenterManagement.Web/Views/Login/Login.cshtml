@@ -1,0 +1,36 @@
+﻿@model DiagnosticCenterManagement.Data.Models.User
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<div class="card" style="text-align:center">
+    <br />
+    <span class="card-title">Login</span>
+    <div class="card-content">
+        <form method="post" style="width:max-content; margin:auto">
+            <div class="row col-12">
+                <div class="input-field">
+                    <label>Username</label>
+                    @Html.TextBoxFor(user => user.Id)
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="input-field col-12">
+                    <label>AMKA</label>
+                    @Html.TextBoxFor(user => user.AMKA)
+                </div>
+            </div>
+
+            <div class="card-action">
+                <button type="submit" value="Login">Login</button>
+            </div>
+        </form>
+    </div>
+    <div class="registerMessage">
+        Don't you have an account yet?
+        <br>
+        @Html.ActionLink("Register", "Register")
+    </div>
+</div>

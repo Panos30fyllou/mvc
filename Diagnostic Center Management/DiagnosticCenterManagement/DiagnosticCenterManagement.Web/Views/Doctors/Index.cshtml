@@ -1,0 +1,61 @@
+﻿@model IEnumerable<DiagnosticCenterManagement.Data.Models.Doctor>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Doctors List</h2>
+
+<p>
+    @Html.ActionLink("Add New Doctor", "Create")
+</p>
+<table class="table">
+    <tr>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Username)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Surname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Specialty)
+        </th>
+        <th>
+            Created By
+        </th>
+        <th>
+            Actions
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Username)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Surname)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Specialty)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Admin.Username, "aefrg")
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.DoctorAMKA }) |
+        @Html.ActionLink("Details", "Details", new { id = item.DoctorAMKA }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.DoctorAMKA })
+    </td>
+</tr>
+    }
+
+</table>

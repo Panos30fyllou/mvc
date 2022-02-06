@@ -1,0 +1,58 @@
+﻿@model DiagnosticCenterManagement.Data.Models.Appointment
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Appointment</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Doctor.Username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Doctor.Username)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Patient.UserId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Patient.UserId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StartSlotTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StartSlotTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EndSlotTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EndSlotTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IsAvailable)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsAvailable)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Date }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

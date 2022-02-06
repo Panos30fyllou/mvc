@@ -1,0 +1,57 @@
+﻿@model IEnumerable<DiagnosticCenterManagement.Data.Models.Appointment>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Doctor.Username)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Patient.UserId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StartSlotTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EndSlotTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsAvailable)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Doctor.Username)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Patient.UserId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StartSlotTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EndSlotTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IsAvailable)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Date }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Date }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Date })
+        </td>
+    </tr>
+}
+
+</table>
